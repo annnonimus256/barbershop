@@ -1,0 +1,245 @@
+html {
+    height: 100%;
+    background-image: url(background.jpg);
+    background-position: 50% 0px;
+}
+
+
+.header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: -10px;
+}
+
+.nav1 {
+    display: inline;
+    margin-right: 30px;
+    font-family: PT Sans Narrow;
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+.nav {
+    display: inline;
+    margin-right: 40px;
+    font-family: PT Sans Narrow;
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+.login {
+    display: inline;
+    margin-left: 200px;
+    font-family: PT Sans Narrow;
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+.logo {
+    margin: 40px;
+    text-align: center;
+}
+
+.why {
+    color: white;
+    display: flex;
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.blok {
+    width: 30%;
+    margin: 20px; 
+    padding: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-family: PT Sans Narrow;
+    font-weight: bold;
+}
+
+.romb {
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.blok-blok {
+    text-align: center;
+    font-size: 14px;
+    font-family: PT Sans Narrow;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.windows {
+    background-color: white;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-bottom: 40px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 1%;
+    display: flex;
+}
+
+.news-blok {
+    width: 50%;
+    font-size: 30px;
+    font-family: PT Sans Narrow;
+    font-weight: bold;
+}
+
+.foto-blok {
+    text-align: center;
+    width: 50%;
+    font-size: 30px;
+    font-family: PT Sans Narrow;
+    font-weight: bold;
+}
+.news {
+    text-align: left;
+    font-size: 16px;
+    font-family: PT Sans Narrow;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+}
+
+.fotogalereya {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+.multy{
+    display: block;
+    padding: 10px;
+}
+
+.back {
+    display: inline; 
+    margin-right: 30px;
+}
+
+.forward {
+    display: inline; 
+}
+
+.left {
+    display: inline; 
+    margin-right: 30px;
+}
+
+.right {
+    display: inline; 
+    margin-right: 90px;
+}
+
+.info-blok {
+    width: 50%;
+    font-size: 30px;
+    font-family: PT Sans Narrow;
+    font-weight: bold;
+}
+
+.singup-blok {
+    font-size: 30px;
+    font-family: PT Sans Narrow;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+.sing-up {
+    display: inline;
+}
+
+.select {
+    text-align: left;
+    font-size: 16px;
+    font-family: PT Sans Narrow;
+    font-weight: bold;
+    margin-top: 30px;
+}
+table, th, td {
+    text-align: center;
+    border-spacing: 10px;
+    font-size: 16px;
+}
+
+.elem {
+    width:200px;
+    height:40px;
+}
+
+.elem1 {
+    border: 2px solid black;
+    width:200px;
+    height:40px;
+}
+
+.send {
+    text-align: center;
+    font-size: 16px;
+    font-family: PT Sans Narrow;
+    font-weight: bold;
+}
+
+.footer {
+    display: flex;
+    background-image: url(img/footer.png);
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin-right: 12%;
+    margin-left: 12%;
+    margin: -10px;
+}
+
+.item-footer {
+    padding-left: 170px;
+    font-size: 16px;
+    font-family: PT Sans Narrow;
+    font-weight: bold;
+}
+
+.social {
+    text-align: center;
+    display: flex;
+    margin-top: 10px;
+}
+
+.text {
+    margin-left: 16px;
+    
+}
+
+.vk {
+    margin-left: 5px;
+}
+
+.fb {
+    margin-left: 5px;
+
+}
+
+.inst {
+    margin-left: 5px;
+
+}
+
+.item-footer-last {
+    padding-left: 250px;
+    font-size: 16px;
+    font-family: PT Sans Narrow;
+    font-weight: bold;
+}
+
+.text-last {
+    margin-left: 30px;
+}
