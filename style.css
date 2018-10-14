@@ -2,23 +2,37 @@ html {
     height: 100%;
     background-image: url(background.jpg);
     background-position: 50% 0px;
+    min-width: 900px;
 }
 
 
 .header {
     background-color: black;
-    color: white;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
     padding: 20px;
-    margin: -10px;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.a-news {
+    text-decoration: none;
+    color: black;
 }
 
 .nav1 {
     display: inline;
+    color: white;
     margin-right: 30px;
     font-family: PT Sans Narrow;
     font-size: 16pt;
     font-weight: bold;
+    text-decoration: none;
 }
 
 .nav {
@@ -45,9 +59,9 @@ html {
 .why {
     color: white;
     display: flex;
-    width: 80%;
-    margin-right: 10%;
-    margin-left: 10%;
+    width: 1020px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .blok {
@@ -76,14 +90,15 @@ html {
 
 .windows {
     background-color: white;
-    margin-left: 12%;
-    margin-right: 12%;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 40px;
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 3%;
     padding-bottom: 1%;
     display: flex;
+    width: 950px;
 }
 
 .news-blok {
@@ -138,7 +153,6 @@ html {
 
 .right {
     display: inline; 
-    margin-right: 90px;
 }
 
 .info-blok {
@@ -196,13 +210,14 @@ table, th, td {
     color: white;
     padding-top: 50px;
     padding-bottom: 20px;
-    margin-right: 12%;
-    margin-left: 12%;
-    margin: -10px;
+    padding-left: 220px;
+    padding-right: 220px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
 }
 
 .item-footer {
-    padding-left: 170px;
     font-size: 16px;
     font-family: PT Sans Narrow;
     font-weight: bold;
@@ -234,7 +249,6 @@ table, th, td {
 }
 
 .item-footer-last {
-    padding-left: 250px;
     font-size: 16px;
     font-family: PT Sans Narrow;
     font-weight: bold;
